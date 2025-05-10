@@ -133,7 +133,7 @@ module.exports = {
 
 <details>
 
-<summary><code>app/globals.css</code></summary>
+<summary><code>/globals.css</code></summary>
 
 ```css
 @tailwind base;
