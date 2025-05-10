@@ -50,7 +50,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 
-git clone https://github.com/JayPanchal-15092005/Movie_App.git
+git clone https://github.com/JayPanchal-15092005/MovieInfo_APP.git
 
 cd rn-Movie_App
 
@@ -216,7 +216,15 @@ interface MovieDetails {
   status: string;
   tagline: string | null;
   title: string;
-  video: boolean;
+  videos: {
+    results: {
+      id: string;
+      key: string;
+      name: string;
+      site: string;
+      type: string;
+    }[];
+  };
   vote_average: number;
   vote_count: number;
 }
@@ -225,5 +233,6 @@ interface TrendingCardProps {
   movie: TrendingMovie;
   index: number;
 }
+
 ```
 
