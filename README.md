@@ -1,5 +1,9 @@
   <h3 align="center">A Movie And Tv Shows Finding App with Extensive Search</h3>
 
+  <!-- - [Download APP] (https://expo.dev/accounts/jay_panchal/projects/InfoMovie/builds/3f8b34be-427d-48ce-a391-b4d6c69e1349) -->
+
+  <a href="https://expo.dev/accounts/jay_panchal/projects/InfoMovie/builds/3f8b34be-427d-48ce-a391-b4d6c69e1349 ">Download APP</a>
+
 ## <a name="introduction"> Introduction</a>
 
 Built with Expo, TypeScript, and Tailwind CSS, this app fetches movies and creates a popularity algorithm using Appwrite. It provides users with a seamless browsing experience, ranking movies based on various engagement metrics. The app leverages modern UI/UX principles for a responsive and visually appealing interface, ensuring real-world scalability and performance.
