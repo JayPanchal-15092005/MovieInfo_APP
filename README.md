@@ -56,8 +56,6 @@ Make sure you have the following installed on your machine:
 
 git clone https://github.com/JayPanchal-15092005/MovieInfo_APP.git
 
-cd rn-Movie_App
-
 ```
 
 **Installation**
